@@ -326,12 +326,12 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .python {
-  	width: 75%;
+  	width: 85%;
   	-moz-animation: python 2s ease;
   	-webkit-animation: python 2s ease;
 }
 .sql {
-  	width: 80%;
+  	width: 90%;
   	-moz-animation: sql 2s ease;
   	-webkit-animation: sql 2s ease;
 }
@@ -351,7 +351,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: html5 2s ease;
 }
 .git {
-  	width: 50%;
+  	width: 70%;
   	-moz-animation: git 2s ease;
   	-webkit-animation: git 2s ease;
 }
